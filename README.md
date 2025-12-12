@@ -1,5 +1,3 @@
-# fliperin
- e-commerce shop page
 <!DOCTYPE html>
 <html lang="en">
 <head>
